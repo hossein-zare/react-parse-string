@@ -1,0 +1,23 @@
+{
+  "name": "react-native-parse-string",
+  "version": "1.0",
+  "description": "Parse any regex expression in your string with React Native.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hossein-zare/react-native-parse-string.git"
+  },
+  "keywords": [
+    "parse",
+    "regex",
+    "string",
+    "regular expression",
+    "reactnative"
+  ],
+  "author": "Hossein Zare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hossein-zare/react-native-parse-string/issues"
+  },
+  "homepage": "https://github.com/hossein-zare/react-native-parse-string#readme"
+}
