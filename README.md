@@ -15,7 +15,7 @@ Parse any regex expression in your string with React Native.
         }
     ]}
 >
-    We are a group of #people helping people reach whatever they dream of.
+    We are a group of #developers helping people reach whatever they dream of.
     I'm asking @facebook to join us!
 </ParseString>
 ```
