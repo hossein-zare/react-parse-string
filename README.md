@@ -1,5 +1,5 @@
-# React native parse string
-Parse any regex expression in your string with React Native.
+# React parse string
+Parse any regex expression in your string with React.
 
 ## Basic usage
 ```javascript
