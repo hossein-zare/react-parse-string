@@ -16,7 +16,6 @@ Parse any regex expression in your string with React.
     ]}
 >
     We are a group of #developers helping people reach whatever they dream of.
-    I'm asking @facebook to join us!
 </ParseString>
 ```
 
